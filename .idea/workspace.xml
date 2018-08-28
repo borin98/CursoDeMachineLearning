@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/TiposDeGraficos/GraficosDeDispersão.py" line="67" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b9643e6b-2727-48f7-9908-2618960c6200" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,42 +12,81 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$CursoDeMachineLearning.coverage" NAME="CursoDeMachineLearning Coverage Results" MODIFIED="1534558282000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$KNNComPandasESKTlearn.coverage" NAME="KNNComPandasESKTlearn Coverage Results" MODIFIED="1535406066763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IntroducaoAoKNN" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$VizualizacaoEmMapas.coverage" NAME="VizualizacaoEmMapas Coverage Results" MODIFIED="1534558094712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TiposDeGraficos" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$CustomizacaoDeGraficos.coverage" NAME="CustomizacaoDeGraficos Coverage Results" MODIFIED="1534565645185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TiposDeGraficos" />
     <SUITE FILE_PATH="coverage/CursoDeMachineLearning$PivotTables.coverage" NAME="PivotTables Coverage Results" MODIFIED="1533999056680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PivotTables" />
     <SUITE FILE_PATH="coverage/CursoDeMachineLearning$SeriesTemporais.coverage" NAME="SeriesTemporais Coverage Results" MODIFIED="1533995603641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperacoesDeDataframes" />
     <SUITE FILE_PATH="coverage/CursoDeMachineLearning$GroupingEAggregate.coverage" NAME="GroupingEAggregate Coverage Results" MODIFIED="1533997355770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperacoesDeDataframes" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$IntroducaoAoMatPlotLib.coverage" NAME="IntroducaoAoMatPlotLib Coverage Results" MODIFIED="1534206294907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoDeMachineLearning$MergeNoDataFrame.coverage" NAME="MergeNoDataFrame Coverage Results" MODIFIED="1533995132985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperacoesDeDataframes" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$IntroducaoAoSeaBorn.coverage" NAME="IntroducaoAoSeaBorn Coverage Results" MODIFIED="1534208072105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IntroducaoDoSeaBorn" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$GraficoDePizza.coverage" NAME="GraficoDePizza Coverage Results" MODIFIED="1534555333086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GraficoDePizzaEHistogramas" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$EsolhaDoK.coverage" NAME="EsolhaDoK Coverage Results" MODIFIED="1535245295970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IntroducaoAoKNN" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$KNNComSklearn.coverage" NAME="KNNComSklearn Coverage Results" MODIFIED="1535297531860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IntroducaoAoKNN" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$IntroducaoAoMatPlotLib__1_.coverage" NAME="IntroducaoAoMatPlotLib (1) Coverage Results" MODIFIED="1534206310902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VizualizandoDadosComMatPlotLib" />
+    <SUITE FILE_PATH="coverage/CursoDeMachineLearning$DiferencaEuclidiana.coverage" NAME="DiferencaEuclidiana Coverage Results" MODIFIED="1534988258817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiferencaEuclidiana" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1690657561">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="1" />
-          <entry key="py" value="9" />
+          <entry key="csv" value="5" />
+          <entry key="data" value="1" />
+          <entry key="ipynb" value="5" />
+          <entry key="png" value="12" />
+          <entry key="py" value="42" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Python" value="9" />
+          <entry key="IPNB" value="5" />
+          <entry key="Image" value="12" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2893" />
+          <entry key="Python Console" value="8" />
+          <entry key="py" value="21785" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2893" />
+          <entry key="Python" value="21793" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -53,40 +95,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/MergeNoDataFrame.py">
+        <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/KNNComPandasESKTlearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="714">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
-                <marker date="1533995414600" expanded="true" signature="36:37" ph="..." />
-                <marker date="1533995414600" expanded="true" signature="36:1320" ph="..." />
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1535406095614" expanded="true" signature="388:436" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PivotTables/PivotTables.py">
+        <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/ImplementacaoDoKNNComNumpyESklearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="698">
-              <caret line="74" column="85" lean-forward="true" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
+            <state relative-caret-position="704">
+              <caret line="66" column="63" selection-start-line="66" selection-start-column="63" selection-end-line="66" selection-end-column="63" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1533999056555" expanded="true" signature="61:368" ph="..." />
-                <marker date="1533999056555" expanded="true" signature="385:563" ph="..." />
-                <marker date="1533999056555" expanded="true" signature="578:637" ph="..." />
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1535333380060" expanded="true" signature="1070:1071" ph="..." />
+                <marker date="1535333380060" expanded="true" signature="1086:1088" ph="..." />
+                <marker date="1535333380060" expanded="true" signature="1086:1092" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/GroupingEAggregate.py">
+        <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/KNNComSklearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="585">
+              <caret line="75" column="7" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+                <marker date="1535329600989" expanded="true" signature="430:1090" ph="..." />
+                <marker date="1535329600989" expanded="true" signature="1129:1475" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/EsolhaDoK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="202" column="44" lean-forward="true" selection-start-line="202" selection-start-column="44" selection-end-line="202" selection-end-column="44" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <marker date="1535329798442" expanded="true" signature="980:982" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="1023:1794" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="1911:2036" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="2136:2243" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="2350:2443" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="2546:2798" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="2872:3567" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="3641:4003" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="3641:4004" ph="..." />
+                <marker date="1535329798442" expanded="true" signature="4019:4025" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,9 +163,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>euclidiana</find>
+      <find>knn</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,6 +184,23 @@
         <option value="$PROJECT_DIR$/OperacoesDeDataframes/MergeNoDataFrame.py" />
         <option value="$PROJECT_DIR$/OperacoesDeDataframes/SeriesTemporais.py" />
         <option value="$PROJECT_DIR$/PivotTables/PivotTables.py" />
+        <option value="$PROJECT_DIR$/IntroducaoAoMatPlotLib.py" />
+        <option value="$PROJECT_DIR$/VizualizandoDadosComMatPlotLib/IntroducaoAoMatPlotLib.py" />
+        <option value="$PROJECT_DIR$/IntroducaoDoSeaBorn/IntroducaoAoSeaBorn.py" />
+        <option value="$PROJECT_DIR$/ArquivosIPYNB/UsoDeSeaBorn.ipynb" />
+        <option value="$PROJECT_DIR$/GraficoDePizzaEHistogramas/GraficoDePizza.py" />
+        <option value="$PROJECT_DIR$/TiposDeGraficos/GraficosDeDispersão.py" />
+        <option value="$PROJECT_DIR$/ArquivosIPYNB/VizualizacaoEmMapas.ipynb" />
+        <option value="$PROJECT_DIR$/TiposDeGraficos/CustomizacaoDeGraficos.py" />
+        <option value="$PROJECT_DIR$/TiposDeGraficos/GraficoDeSeriesTemporais.py" />
+        <option value="$PROJECT_DIR$/DiferencaEuclidiana/DiferencaEuclidiana.py" />
+        <option value="$PROJECT_DIR$/IntroducaoAoKNN/HabermanSDataset.txt" />
+        <option value="$PROJECT_DIR$/TiposDeGraficos/VizualizacaoEmMapas.py" />
+        <option value="$PROJECT_DIR$/IntroducaoAoKNN/BalanceScale.txt" />
+        <option value="$PROJECT_DIR$/IntroducaoAoKNN/KNNComSklearn.py" />
+        <option value="$PROJECT_DIR$/IntroducaoAoKNN/EsolhaDoK.py" />
+        <option value="$PROJECT_DIR$/IntroducaoAoKNN/ImplementacaoDoKNNComNumpyESklearn.py" />
+        <option value="$PROJECT_DIR$/IntroducaoAoKNN/KNNComPandasESKTlearn.py" />
       </list>
     </option>
   </component>
@@ -120,8 +210,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -141,12 +232,7 @@
             <path>
               <item name="CursoDeMachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoDeMachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="OperacoesDeDataframes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDeMachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDeMachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="PivotTables" type="462c0819:PsiDirectoryNode" />
+              <item name="IntroducaoAoKNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,18 +245,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\PycharmProjects\CursoDeMachineLearning\PivotTables" />
-      <recent name="E:\PycharmProjects\CursoDeMachineLearning\OperacoesDeDataframes" />
-      <recent name="E:\PycharmProjects\CursoDeMachineLearning" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\TiposDeGraficos" />
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\ArquivosIPYNB" />
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\GraficoDePizzaEHistogramas" />
       <recent name="E:\PycharmProjects\CursoDeMachineLearning\UsoDeUmDataset" />
       <recent name="E:\PycharmProjects\CursoDeMachineLearning\GroupingEAggregate" />
-      <recent name="E:\PycharmProjects\CursoDeMachineLearning\ExemplosComPandas" />
-      <recent name="E:\PycharmProjects\CursoDeMachineLearning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\IntroducaoAoKNN" />
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\TiposDeGraficos" />
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\GraficoDePizzaEHistogramas" />
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\VizualizandoDadosComMatPlotLib" />
+      <recent name="E:\PycharmProjects\CursoDeMachineLearning\PivotTables" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,8 +275,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PivotTables">
-    <configuration name="GroupingEAggregate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.EsolhaDoK">
+    <configuration name="CursoDeMachineLearning" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="CursoDeMachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,21 +284,36 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacoesDeDataframes" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EsolhaDoK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CursoDeMachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroducaoAoKNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacoesDeDataframes/GroupingEAggregate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroducaoAoKNN/EsolhaDoK.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MergeNoDataFrame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ImplementacaoDoKNNComNumpyESklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoDeMachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,21 +321,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacoesDeDataframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroducaoAoKNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacoesDeDataframes/MergeNoDataFrame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroducaoAoKNN/ImplementacaoDoKNNComNumpyESklearn.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PivotTables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="KNNComPandasESKTlearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoDeMachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,21 +343,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PivotTables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroducaoAoKNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PivotTables/PivotTables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroducaoAoKNN/KNNComPandasESKTlearn.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SeriesTemporais" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="KNNComSklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoDeMachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,14 +365,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacoesDeDataframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroducaoAoKNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacoesDeDataframes/SeriesTemporais.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroducaoAoKNN/KNNComSklearn.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VizualizacaoEmMapas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CursoDeMachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TiposDeGraficos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TiposDeGraficos/VizualizacaoEmMapas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="CursoDeMachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -275,17 +424,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.MergeNoDataFrame" />
-      <item itemvalue="Python.SeriesTemporais" />
-      <item itemvalue="Python.PivotTables" />
-      <item itemvalue="Python.GroupingEAggregate" />
+      <item itemvalue="Jupyter Notebook.CursoDeMachineLearning" />
+      <item itemvalue="Python.VizualizacaoEmMapas" />
+      <item itemvalue="Python.EsolhaDoK" />
+      <item itemvalue="Python.KNNComSklearn" />
+      <item itemvalue="Python.ImplementacaoDoKNNComNumpyESklearn" />
+      <item itemvalue="Python.KNNComPandasESKTlearn" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PivotTables" />
-        <item itemvalue="Python.GroupingEAggregate" />
-        <item itemvalue="Python.SeriesTemporais" />
-        <item itemvalue="Python.MergeNoDataFrame" />
+        <item itemvalue="Python.EsolhaDoK" />
+        <item itemvalue="Python.KNNComPandasESKTlearn" />
+        <item itemvalue="Python.ImplementacaoDoKNNComNumpyESklearn" />
+        <item itemvalue="Python.KNNComSklearn" />
+        <item itemvalue="Python.VizualizacaoEmMapas" />
       </list>
     </recent_temporary>
   </component>
@@ -302,32 +454,66 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.53719914" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31503198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31106243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39370933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46498907" side_tool="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32858709" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.53501093" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.498366" weight="0.36870897" />
+      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="5" sideWeight="0.501634" side_tool="true" weight="0.5261194" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31509846" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31106243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4030668" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46498907" side_tool="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32858709" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.53501093" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.498366" weight="0.36870897" />
+      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="5" sideWeight="0.501634" side_tool="true" weight="0.52625823" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -335,10 +521,47 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Aula01IntroducaoAosComandosDoPanda.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TiposDeGraficos/CustomizacaoDeGraficos.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DiferencaEuclidiana/DiferencaEuclidiana.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DiferencaEuclidiana/DiferencaEuclidiana.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DiferencaEuclidiana/DiferencaEuclidiana.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DiferencaEuclidiana/DiferencaEuclidiana.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="amostra[2]" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Aula01IntroducaoAosComandosDoPanda.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExemplosComPandas/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -348,13 +571,7 @@
     <entry file="file://$PROJECT_DIR$/UsoDeUmDataset/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/pandas-11.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/pandas-11.ipynb" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/db/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
@@ -362,46 +579,262 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/SeriesTemporais.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/SeriesTemporais.py" />
     <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/MergeNoDataFrame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
+        <state relative-caret-position="663">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <marker date="1533995414600" expanded="true" signature="36:37" ph="..." />
-            <marker date="1533995414600" expanded="true" signature="36:1320" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OperacoesDeDataframes/GroupingEAggregate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PivotTables/PivotTables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
-          <caret line="74" column="85" lean-forward="true" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
+        <state relative-caret-position="239">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sin-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VizualizandoDadosComMatPlotLib/sin-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/populacao_brasil.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56270">
+          <caret line="3361" column="4" selection-start-line="3361" selection-start-column="4" selection-end-line="3361" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/visualization-04.ipynb" />
+    <entry file="file://$PROJECT_DIR$/ArquivosIPYNB/UsoDeSeaBorn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoDoSeaBorn/IntroducaoAoSeaBorn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/copacabana_lat_lng.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sin-02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sin-03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArquivosIPYNB/copacabana_lat_lng.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArquivosIPYNB/VizualizacaoEmMapas.ipynb" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="3784" column="8" selection-start-line="3784" selection-start-column="8" selection-end-line="3784" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/reported.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula01IntroducaoAosComandosDoPanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/Gráfico_Crime_Por_Pessoa.png" />
+    <entry file="file://$PROJECT_DIR$/VizualizandoDadosComMatPlotLib/IntroducaoAoMatPlotLib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/Gráfico_Crime_Por_Pessoa02.png" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1955" column="8" selection-start-line="1955" selection-start-column="8" selection-end-line="1955" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/visualizacao-08.ipynb" />
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/Gráfico-Crime_Por_Pessoa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/CustomizacaoDeGraficos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1534566971139" expanded="true" signature="180:1479" ph="..." />
+            <marker date="1534566971139" expanded="true" signature="1572:1832" ph="..." />
+            <marker date="1534566971139" expanded="true" signature="1847:1853" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/GraficoDePizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="52" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiferencaEuclidiana/DiferencaEuclidiana.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1534988219450" expanded="true" signature="64:333" ph="..." />
+            <marker date="1534988219450" expanded="true" signature="360:509" ph="..." />
+            <marker date="1534988219450" expanded="true" signature="524:525" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/GraficosDeDispersão.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1534557232414" expanded="true" signature="391:511" ph="..." />
+            <marker date="1534557232414" expanded="true" signature="580:1302" ph="..." />
+            <marker date="1534557232414" expanded="true" signature="1317:1318" ph="..." />
+            <marker date="1534557232414" expanded="true" signature="1317:1323" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/GraficoDeSeriesTemporais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TiposDeGraficos/VizualizacaoEmMapas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/BalanceScale.txt" />
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="77" column="29" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/dataset.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="182" column="9" selection-end-line="182" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/KNNComPandasESKTlearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1533999056555" expanded="true" signature="61:368" ph="..." />
-            <marker date="1533999056555" expanded="true" signature="385:563" ph="..." />
-            <marker date="1533999056555" expanded="true" signature="578:637" ph="..." />
+            <marker date="1535406095614" expanded="true" signature="388:436" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/HabermanSDataset.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="183" column="9" lean-forward="true" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/KNNComSklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="75" column="7" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <marker date="1535329600989" expanded="true" signature="430:1090" ph="..." />
+            <marker date="1535329600989" expanded="true" signature="1129:1475" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/EsolhaDoK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="202" column="44" lean-forward="true" selection-start-line="202" selection-start-column="44" selection-end-line="202" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1535329798442" expanded="true" signature="980:982" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="1023:1794" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="1911:2036" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="2136:2243" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="2350:2443" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="2546:2798" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="2872:3567" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="3641:4003" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="3641:4004" ph="..." />
+            <marker date="1535329798442" expanded="true" signature="4019:4025" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroducaoAoKNN/ImplementacaoDoKNNComNumpyESklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="66" column="63" selection-start-line="66" selection-start-column="63" selection-end-line="66" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1535333380060" expanded="true" signature="1070:1071" ph="..." />
+            <marker date="1535333380060" expanded="true" signature="1086:1088" ph="..." />
+            <marker date="1535333380060" expanded="true" signature="1086:1092" ph="..." />
           </folding>
         </state>
       </provider>
