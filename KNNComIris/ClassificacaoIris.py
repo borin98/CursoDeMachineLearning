@@ -24,9 +24,6 @@ Informações dos atributos do datset :
     1 =  Iris Setosa 
     2 = Iris Versicolour 
     3 =  Iris Virginica
-
-
-
 """
 
 def main (  ) :
